@@ -1,0 +1,11 @@
+# .DS_Store files!
+.DS_Store
+
+# our build directory
+build/
+
+# binary file
+payload/usr/local/bin/defaultmail
+
+# ignore my build file
+build-info.plist
